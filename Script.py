@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """HEY {}\nHERE IS MY HELP COMMANDS."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ CREATOR : <a href=https://t.me/itsriyas>𝙼𝚘𝚣𝚊𝚌𝚘</a>
+✯ CREATOR : <a href=https://t.me/itsriyas>Riyas.exe</a>
 ✯ LIBRARY : PYOGRAM
 ✯ LANGUAGE : PYTHON 3
 ✯ DATABASE : MONGO-DB
