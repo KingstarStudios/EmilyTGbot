@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+EMILY+BOT!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+M O Z A C O+!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+
 <p align="center">
   <img src="Logo/PROFESSOR-BOT.jpeg" alt="MKN BOTZ LOGO">
 </p>
